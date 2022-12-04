@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div id="main">
     <h1 data-ns-test="musicApp">musicApp</h1>
-     <h1 data-ns-test="mymusicApp">my first music app</h1>
+     <p data-ns-test="musicApp">my first music app</p>
     </div>
   )
 }
